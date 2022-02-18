@@ -44,9 +44,6 @@ img{
 a:link{
     color: rgb(40, 207, 168)
 }
-a:visited{
-    color: rgb(37, 109, 92);
-}
 p{
     font-family: serif;
     padding-bottom: 15px;
